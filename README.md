@@ -1,6 +1,6 @@
 # Blogger
 
-A website where users can create, read, edit and delete their blogs.
+A website where users can create, read, edit and even delete their blogs.
 
 ## Getting started with the project
 
